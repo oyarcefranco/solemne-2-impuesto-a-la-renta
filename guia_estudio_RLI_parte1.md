@@ -1,6 +1,6 @@
 # 🎯 GUÍA DEFINITIVA: Renta Líquida Imponible (RLI) — Régimen 14 Letra A
 
-## Tu prueba es mañana. Esta guía cubre TODO lo que necesitas.
+## Tu prueba es mañana. Esta guía cubre TODO lo que necesitas
 
 ---
 
@@ -26,11 +26,14 @@ FÓRMULA MAESTRA:
 ## 🔴 ARTÍCULO 21: Gastos Rechazados — LO MÁS IMPORTANTE
 
 ### Inciso 1° → Impuesto Único 40% (lo paga LA EMPRESA)
+
 **¿Cuándo aplica?** Desembolsos de dinero que:
+
 - Benefician a personas relacionadas (socios/accionistas) Y no se identifica al beneficiario, O
 - No se puede acreditar la naturaleza/efectividad del gasto
 
 **Ejemplos típicos en tus ejercicios:**
+
 - Gastos sin documentación de sustento
 - Arriendo de automóvil para el gerente (no del giro)
 - Arriendo de casa para el contador/accionista
@@ -43,12 +46,15 @@ FÓRMULA MAESTRA:
 > **SEGÚN TUS EJERCICIOS**: Se agregan a la RLI, NO se deducen. Pagan 27% dentro de la RLI + 40% adicional.
 
 ### Inciso 2° → NO pagan impuesto (se agregan pero no tributan Art. 21)
+
 - **Impuestos de esta misma ley** (Impuesto de Primera Categoría pagado)
 - **Multas e intereses pagados al fisco/municipalidades**
 - **Gastos anticipados** que se aceptan en ejercicios posteriores
 
 ### Inciso 3° → IGC + 10% (lo paga EL SOCIO/ACCIONISTA)
+
 **¿Cuándo aplica?** Cuando se IDENTIFICA al beneficiario (socio/accionista):
+
 - Aguinaldos/gratificaciones a socios que NO trabajan en la empresa
 - Préstamos a socios
 - Uso de bienes de la empresa por socios
@@ -61,16 +67,18 @@ FÓRMULA MAESTRA:
 
 ## 🟢 ARTÍCULO 31: Gastos Necesarios para Producir la Renta
 
-### Requisitos generales (Inc. 1°):
+### Requisitos generales (Inc. 1°)
+
 1. Que sean **necesarios** para producir la renta
 2. Que estén **pagados o adeudados** en el ejercicio
 3. Que estén **acreditados fehacientemente** (con documentación)
 4. Que **no hayan sido rebajados como costo directo**
 
-### Gastos de automóviles (Inc. 1° especial):
+### Gastos de automóviles (Inc. 1° especial)
+>
 > ⚠️ **REGLA CRÍTICA**: Gastos de automóviles, station wagons y similares NO son aceptados SALVO que el giro lo requiera (ej: rent-a-car, transporte).
 
-### Numerales importantes:
+### Numerales importantes
 
 | N° | Concepto | Regla clave |
 |----|----------|-------------|
@@ -99,14 +107,16 @@ FÓRMULA MAESTRA:
 
 ## 🟡 ARTÍCULO 33: Agregados y Deducciones
 
-### N°1 - SE AGREGAN:
+### N°1 - SE AGREGAN
+
 - Retiros particulares en dinero o especies
 - Sumas pagadas por activo fijo o mejoras (reclasificación)
 - Gastos que benefician a relacionados
 - Costos/gastos imputables a ingresos no renta o exentos
 - Cantidades cuya deducción NO autoriza el Art. 31
 
-### N°2 - SE DEDUCEN:
+### N°2 - SE DEDUCEN
+
 - **Dividendos percibidos** de otras sociedades (ya tributaron)
 - **Retiros por participación** en otras sociedades
 - **Rentas exentas**
